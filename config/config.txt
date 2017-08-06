@@ -1,0 +1,5 @@
+[Log]
+flag = True
+
+[Print]
+flag = True
